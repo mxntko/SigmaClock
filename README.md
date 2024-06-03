@@ -28,5 +28,5 @@ Team : (INFORMATICS A)
 
 # Warning
 
-- Make sure to always delete the build file (it won't harm the code) in case it appears in the original file. If you refuse to delete it, there will be a chance of the device connected like emulator/web/etc to get exited.
+- Make sure to always delete the build file (it won't harm the code) in case it appears in the original file. If you refuse to delete it, there will be a chance of the device connected like emulator/web/etc to get exited when you run the code.
 - Before runnning, go to terminal and always type 'flutter clean', 'flutter pub get', and 'flutter run' to make sure everything was set up.
