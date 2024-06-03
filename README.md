@@ -25,3 +25,8 @@ Team : (INFORMATICS A)
 - the alarm doesn't pop up or sound (device/emulator problem that doesn't support it)
 - the stopwatch has 2 resume buttons when paused (not good enough hehe)
 - Triggered alarms will disappear if they are refreshed (return to home then enter the alarm page again), meaning you have to create them continuously, they cannot be saved
+
+# Warning
+
+- Make sure to always delete the build file (it won't harm the code) in case it appears in the original file. If you refuse to delete it, there will be a chance of the device connected like emulator/web/etc to get exited.
+- Before runnning, go to terminal and always type 'flutter clean', 'flutter pub get', and 'flutter run' to make sure everything was set up.
