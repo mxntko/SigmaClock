@@ -1,6 +1,13 @@
 # SigmaClock
 
-A new Flutter project.
+A new Flutter project containing various feature, such as clock, alarm, and stopwatch.
+
+Team : (INFORMATICS A)
+- Mikko Ermano Liu
+- Farrel Anandra Nathaniel
+- Khalid Raung Afrika
+- Andromeda
+- Daniel Yonathan
 
 ## Getting Started
 
