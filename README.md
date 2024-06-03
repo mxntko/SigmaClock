@@ -1,4 +1,4 @@
-# analog_clock
+# SigmaClock
 
 A new Flutter project.
 
