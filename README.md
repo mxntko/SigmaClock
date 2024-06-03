@@ -1,6 +1,6 @@
 # SigmaClock
 
-A new Flutter project containing various feature, such as clock, alarm, and stopwatch.
+A new Flutter project containing various feature, such as real time zone clock, alarm, and stopwatch.
 
 Team : (INFORMATICS A)
 - Mikko Ermano Liu
