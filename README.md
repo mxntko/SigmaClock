@@ -16,15 +16,12 @@ Team : (INFORMATICS A)
 <img width="377" alt="image" src="https://github.com/mxntko/SigmaClock/assets/171511864/46e2bf58-8b51-4668-99ab-e0498f55046e">
 
 
-## Getting Started
+# Advantages
 
-This project is a starting point for a Flutter application.
+- real time zone clock
 
-A few resources to get you started if this is your first Flutter project:
+# Flaws/Bugs
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- the alarm doesn't pop up or sound (device/emulator problem that doesn't support it)
+- the stopwatch has 2 resume buttons when paused (not old enough hehe)
+- Triggered alarms will disappear if they are refreshed (return to home then enter the alarm page again), meaning you have to create them continuously, they cannot be saved
