@@ -23,5 +23,5 @@ Team : (INFORMATICS A)
 # Flaws/Bugs
 
 - the alarm doesn't pop up or sound (device/emulator problem that doesn't support it)
-- the stopwatch has 2 resume buttons when paused (not old enough hehe)
+- the stopwatch has 2 resume buttons when paused (not good enough hehe)
 - Triggered alarms will disappear if they are refreshed (return to home then enter the alarm page again), meaning you have to create them continuously, they cannot be saved
